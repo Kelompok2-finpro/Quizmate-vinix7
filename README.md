@@ -55,5 +55,3 @@ python3 -m http.server 8000
    ```
 2. Di GitHub: **Settings → Pages → Source: GitHub Actions**.
 3. Setiap push ke `main` akan otomatis ter-deploy (workflow `pages.yml`).
-
-> Catatan: teks pada desain SVG sudah berupa outline, sehingga tampilan identik dengan desain Figma. Untuk menjadikannya aplikasi dinamis (data kuis, skor, autentikasi), halaman dapat dibangun ulang dengan HTML/CSS komponen secara bertahap.
