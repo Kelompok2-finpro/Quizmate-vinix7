@@ -1,7 +1,7 @@
+
 # QuizMate VINIX7
 
-Website platform kuis interaktif **QuizMate VINIX7**, dibangun dari 8 desain SVG tanpa mengubah tampilan aslinya.
-Setiap halaman menampilkan desain SVG secara 1:1 (responsif, skala mengikuti lebar layar) dan menambahkan area klik interaktif untuk navigasi antarhalaman.
+QuizMate VINIX7 adalah platform kuis dan asesmen untuk peserta pelatihan VINIX7. Peserta dapat memilih modul dari katalog, mengerjakan kuis interaktif dengan timer dan navigasi soal, mengonfirmasi jawaban sebelum dikirim, lalu melihat hasil evaluasi lengkap dengan skor, kunci jawaban, dan pembahasan tiap soal. Platform ini juga menyediakan pencarian modul, leaderboard peserta, dan halaman profil yang menampilkan rata-rata skor, peringkat, serta progres kurikulum.
 
 ## Halaman
 
