@@ -43,7 +43,7 @@ Peserta dapat menekan pintasan papan ketik `Ctrl+K` atau `Cmd+K` kapan saja untu
 
 Pengembangan antarmuka menerapkan token desain resmi yang presisi untuk menjamin konsistensi visual di seluruh komponen:
 
-- **Tipografi Harmonis**: Judul dan penekanan visual memanfaatkan font modern **Plus Jakarta Sans** untuk memberikan kesan kontemporer dan tegas. Teks tubuh utama menggunakan **Inter** untuk keterbacaan tinggi pada teks panjang. Bagian cuplikan kode dan data terminal didukung oleh **Fira Code** yang presisi.
+- **Tipografi Harmonis**: Judul dan penekanan visual memanfaatkan font modern **DM Sans** untuk memberikan kesan kontemporer dan tegas. Teks tubuh utama menggunakan **Inter** untuk keterbacaan tinggi pada teks panjang. Bagian cuplikan kode dan data terminal didukung oleh **Fira Code** yang presisi.
 - **Palet Warna Terkurasi**: Identitas utama dibangun oleh warna *Deep Indigo* (`#3525cd`) dan *Primary Action* (`#4f46e5`). Elemen latar belakang mengusung nuansa *Slate & Body Tint* (`#f8f9ff`), sedangkan status keberhasilan, peringatan, dan evaluasi ditandai dengan warna fungsional seperti *Emerald Green* (`#006e4b`), *Amber Gold* (`#b45309`), dan *Crimson Red* (`#ba1a1a`).
 - **Tata Letak Adaptif**: Menggunakan prinsip *Fluid Grid System* yang bertransisi secara mulus dari format multikolom pada layar desktop lebar (1280px), tata letak efisien pada tablet (768px - 1024px), hingga tumpukan vertikal yang ramah sentuhan pada layar ponsel (<768px).
 
