@@ -91,6 +91,6 @@ quizmate-vinix7/
 └── README.md        # Dokumentasi resmi arsitektur dan spesifikasi proyek
 ```
 
----
+https://kelompok2-finpro.github.io/Quizmate-vinix7/
 
 *Hak Cipta © 2026 QuizMate VINIX7 Platform. Dikembangkan untuk keperluan asesmen dan evaluasi akademik.*
