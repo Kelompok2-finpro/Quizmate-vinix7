@@ -1,7 +1,7 @@
 
 # QuizMate VINIX7
 
-QuizMate VINIX7 adalah platform kuis dan asesmen untuk peserta pelatihan VINIX7. Peserta dapat memilih modul dari katalog, mengerjakan kuis interaktif dengan timer dan navigasi soal, mengonfirmasi jawaban sebelum dikirim, lalu melihat hasil evaluasi lengkap dengan skor, kunci jawaban, dan pembahasan tiap soal. Platform ini juga menyediakan pencarian modul, leaderboard peserta, dan halaman profil yang menampilkan rata-rata skor, peringkat, serta progres kurikulum.
+[QuizMate VINIX7](https://kelompok2-finpro.github.io/Quizmate-vinix7/search.html) adalah platform kuis dan asesmen untuk peserta pelatihan VINIX7. Peserta dapat memilih modul dari katalog, mengerjakan kuis interaktif dengan timer dan navigasi soal, mengonfirmasi jawaban sebelum dikirim, lalu melihat hasil evaluasi lengkap dengan skor, kunci jawaban, dan pembahasan tiap soal. Platform ini juga menyediakan pencarian modul, leaderboard peserta, dan halaman profil yang menampilkan rata-rata skor, peringkat, serta progres kurikulum.
 
 ## Halaman
 
